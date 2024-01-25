@@ -6,7 +6,7 @@
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Postman](#Tests-with-Postman)
+  * [Postman](#pesting-with-postman)
   
 
  
@@ -86,6 +86,7 @@ A QA course that teaches the main tools used in test automation, personal develo
 
 ## Examples of my work
 
+### Testing with Postman
 - Tests with Postman
   * [CRUD Testing with Postman](https://github.com/EduardoQA/postman-api-testing)<br />
 
