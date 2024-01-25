@@ -6,7 +6,7 @@
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Postman](#pesting-with-postman)
+  * [Postman](#testing-with-postman)
   
 
  
