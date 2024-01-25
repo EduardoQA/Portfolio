@@ -89,7 +89,7 @@ A QA course that teaches the main tools used in test automation, personal develo
 ## Examples of my work
 
 ### Testing with Postman
-  * [CRUD Testing with Postman](https://github.com/EduardoQA/postman-api-testing)
+  * [CRUD Testing with Postman on Collection Runner](https://github.com/EduardoQA/postman-api-testing)
 
 ### Automated Testing with Selenium
   * [Form Automated Testing](https://github.com/EduardoQA/selenium-automated-test)
