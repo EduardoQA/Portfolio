@@ -87,7 +87,6 @@ A QA course that teaches the main tools used in test automation, personal develo
 ## Examples of my work
 
 ### Testing with Postman
-- Tests with Postman
   * [CRUD Testing with Postman](https://github.com/EduardoQA/postman-api-testing)<br />
 
 
