@@ -9,6 +9,7 @@
   * [Postman](#testing-with-postman)
   * [Selenium](#automated-testing-with-selenium)
   * [Trello](#creating-test-cases-with-trello)
+    - Login functionality
     
   
 
