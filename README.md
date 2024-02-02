@@ -8,6 +8,7 @@
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Postman](#testing-with-postman)
   * [Selenium](#automated-testing-with-selenium)
+  * [Trello](creating-test-cases-with-trello)
     
   
 
@@ -87,6 +88,8 @@ A QA course that teaches the main tools used in test automation, personal develo
 
 
 ## Examples of my work
+
+### Creating Test Cases With Trello
 
 ### Testing with Postman
   * [CRUD Testing with Postman on Collection Runner](https://github.com/EduardoQA/postman-api-testing)
