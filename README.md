@@ -90,6 +90,7 @@ A QA course that teaches the main tools used in test automation, personal develo
 ## Examples of my work
 
 ### Creating Test Cases With Trello
+* Facebook testing scenario using trello
 
 ### Testing with Postman
   * [CRUD Testing with Postman on Collection Runner](https://github.com/EduardoQA/postman-api-testing)
