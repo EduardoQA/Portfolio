@@ -8,7 +8,7 @@
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Postman](#testing-with-postman)
   * [Selenium](#automated-testing-with-selenium)
-  * [Trello](creating-test-cases-with-trello)
+  * [Trello](#creating-test-cases-with-trello)
     
   
 
