@@ -91,8 +91,10 @@ A QA course that teaches the main tools used in test automation, personal develo
 ## Examples of my work
 
 ### Creating Test Cases With Trello
-  * [Facebook testing scenario using trello]()
-    - Login Functionality
+  * [Facebook testing scenario using trello](https://drive.google.com/file/d/1GJW8kZnjZB2ixIjHKtaVIne0KjTChUba/view?usp=drive_link)
+    - [Sing up Functionality Valid scenarios](https://drive.google.com/file/d/1GjFSdPbxUkCkg8t68OrRZHgdjjXmv9xp/view?usp=drive_link)
+    - [Sing up Functionality Invalid scenarios](https://drive.google.com/file/d/103f04WMXOzivLQ4k0mi0wlKnP8hONEZ9/view?usp=drive_link)
+      
 
 ### Testing with Postman
   * [CRUD Testing with Postman on Collection Runner](https://github.com/EduardoQA/postman-api-testing)
