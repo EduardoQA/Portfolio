@@ -9,7 +9,7 @@
   * [Postman](#testing-with-postman)
   * [Selenium](#automated-testing-with-selenium)
   * [Trello](#creating-test-cases-with-trello)
-    - Login functionality
+ 
     
   
 
@@ -92,6 +92,7 @@ A QA course that teaches the main tools used in test automation, personal develo
 
 ### Creating Test Cases With Trello
   * [Facebook testing scenario using trello]()
+    - Login Functionality
 
 ### Testing with Postman
   * [CRUD Testing with Postman on Collection Runner](https://github.com/EduardoQA/postman-api-testing)
