@@ -66,7 +66,6 @@ __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
 
-__SoapUI__
 
 __Browser developer tools__
 
