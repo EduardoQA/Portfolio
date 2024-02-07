@@ -9,6 +9,7 @@
   * [Postman](#testing-with-postman)
   * [Selenium](#automated-testing-with-selenium)
   * [Trello](#creating-test-cases-with-trello)
+  * [Test Case Writing with google sheets]
  
     
   
@@ -96,6 +97,9 @@ A QA course that teaches the main tools used in test automation, personal develo
   * Facebook LOGIN functionality scenarios
     - [Valid Scenarios](https://drive.google.com/file/d/15ACQu35fXVbtoHhfmR7uFX5-p4P5m1SH/view?usp=drive_link)
     - [Invalid Scenarios](https://drive.google.com/file/d/1AvTEwdgy_gR2aqRUDC4PI3q-XVVQUvcL/view?usp=drive_link)
+
+
+ ### Test Case Writing Google Sheets
       
       
 
