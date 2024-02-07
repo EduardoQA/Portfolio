@@ -100,7 +100,7 @@ A QA course that teaches the main tools used in test automation, personal develo
 
 
 ### Test Case Writing Google Sheets
-  * [Yahoo Valid + Invalid test cases](https://docs.google.com/spreadsheets/d/1rK6IszVvvDseiMbk-17x0BU4eRyBtw8BJCsswGPghGs/edit?usp=drive_link) 
+  * [Yahoo Valid + Invalid test cases](https://docs.google.com/spreadsheets/d/1I1JMEWjiCuDmGtScm8cGJ2lifHD5GrLm/edit?usp=drive_link&ouid=112194572734199861785&rtpof=true&sd=true) 
       
       
 
