@@ -101,7 +101,7 @@ A QA course that teaches the main tools used in test automation, personal develo
 
 ### Test Case Writing Google Sheets
   * [Valid + Invalid Yahoo test cases](https://docs.google.com/spreadsheets/d/1I1JMEWjiCuDmGtScm8cGJ2lifHD5GrLm/edit?usp=drive_link&ouid=112194572734199861785&rtpof=true&sd=true)
-  * [Swag Labs Test cases](https://docs.google.com/spreadsheets/d/1daJboz-3EuvWDKTgaZOFbOwaf9kIgpGE/edit?usp=drive_link&ouid=112194572734199861785&rtpof=true&sd=true)
+  * [Swag Labs Test Cases](https://docs.google.com/spreadsheets/d/1daJboz-3EuvWDKTgaZOFbOwaf9kIgpGE/edit?usp=drive_link&ouid=112194572734199861785&rtpof=true&sd=true)
       
       
 
