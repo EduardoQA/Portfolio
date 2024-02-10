@@ -5,11 +5,13 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Postman](#testing-with-postman)
+  * [Test Case Writing with google sheets](#test-case-writing-google-sheets)
   * [Selenium](#automated-testing-with-selenium)
   * [Trello](#creating-test-cases-with-trello)
-  * [Test Case Writing with google sheets](#test-case-writing-google-sheets)
+  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
+  * [Postman](#testing-with-postman)
+    
+    
  
     
   
