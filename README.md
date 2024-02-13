@@ -6,10 +6,11 @@
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
   * [Swag Labs Sample Project](#swag-labs-sample-project)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Facebook Sample Project](#facebook-sample-project)
   * [Postman](#testing-with-postman)
   * [Selenium](#automated-testing-with-selenium)
+  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
+    
     
     
 
