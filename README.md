@@ -45,9 +45,6 @@ __API testing__
   * gained experience through manual testing of APIs created for educational purposes
 
 
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
-
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
