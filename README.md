@@ -7,7 +7,7 @@
 - [Examples of my work](#examples-of-my-work)
   * [Swag Labs Sample Project](#swag-labs-sample-project)
   * [Selenium](#automated-testing-with-selenium)
-  * [Trello](#creating-test-cases-with-trello)
+  * [Facebook Sample Project](#facebook-sample-project)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Postman](#testing-with-postman)
     
@@ -99,11 +99,11 @@ A QA course that teaches the main tools used in test automation, personal develo
   * [Valid + Invalid Yahoo test cases](https://docs.google.com/spreadsheets/d/1I1JMEWjiCuDmGtScm8cGJ2lifHD5GrLm/edit?usp=drive_link&ouid=112194572734199861785&rtpof=true&sd=true)
     
 
-### Creating Test Cases With Trello
-  * Facebook SIGN-UP functionality scenarios
+### Facebook Sample Project
+  * Facebook SIGN-UP functionality scenarios with trello
     - [Valid Scenarios](https://drive.google.com/file/d/1GjFSdPbxUkCkg8t68OrRZHgdjjXmv9xp/view?usp=drive_link)
     - [Invalid Scenarios](https://drive.google.com/file/d/103f04WMXOzivLQ4k0mi0wlKnP8hONEZ9/view?usp=drive_link)
-  * Facebook LOGIN functionality scenarios
+  * Facebook LOGIN functionality scenarios with trello
     - [Valid Scenarios](https://drive.google.com/file/d/15ACQu35fXVbtoHhfmR7uFX5-p4P5m1SH/view?usp=drive_link)
     - [Invalid Scenarios](https://drive.google.com/file/d/1AvTEwdgy_gR2aqRUDC4PI3q-XVVQUvcL/view?usp=drive_link)    
       
