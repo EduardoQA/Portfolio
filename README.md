@@ -91,7 +91,7 @@ A QA course that teaches the main tools used in test automation, personal develo
 
 
 ### Swag Labs Sample Project
-  * [Swag Labs Test Cases](https://docs.google.com/spreadsheets/d/1FcfAOTmtIKcWjXi3a0ZyuMbH-8gRJKDZxQmWtCJ7b4Q/edit?usp=drive_link)
+  * [Swag Labs Test Cases(google sheets)](https://docs.google.com/spreadsheets/d/1FcfAOTmtIKcWjXi3a0ZyuMbH-8gRJKDZxQmWtCJ7b4Q/edit?usp=drive_link)
   * [Swag Labs bug report](https://docs.google.com/document/d/1n-_XmHPcGVo2OcuyIde6QquBfkcb-H1-/edit?usp=drive_link&ouid=112194572734199861785&rtpof=true&sd=true)
 
 
