@@ -95,7 +95,9 @@ A QA course that teaches the main tools used in test automation, personal develo
 
 ### Test Case Writing Google Sheets
   * [Swag Labs Test Cases](https://docs.google.com/spreadsheets/d/1FcfAOTmtIKcWjXi3a0ZyuMbH-8gRJKDZxQmWtCJ7b4Q/edit?usp=drive_link)
+  * [Swag Labs bug report](https://docs.google.com/document/d/1n-_XmHPcGVo2OcuyIde6QquBfkcb-H1-/edit?usp=drive_link&ouid=112194572734199861785&rtpof=true&sd=true)
   * [Valid + Invalid Yahoo test cases](https://docs.google.com/spreadsheets/d/1I1JMEWjiCuDmGtScm8cGJ2lifHD5GrLm/edit?usp=drive_link&ouid=112194572734199861785&rtpof=true&sd=true)
+    
 
     
 
@@ -105,8 +107,7 @@ A QA course that teaches the main tools used in test automation, personal develo
     - [Invalid Scenarios](https://drive.google.com/file/d/103f04WMXOzivLQ4k0mi0wlKnP8hONEZ9/view?usp=drive_link)
   * Facebook LOGIN functionality scenarios
     - [Valid Scenarios](https://drive.google.com/file/d/15ACQu35fXVbtoHhfmR7uFX5-p4P5m1SH/view?usp=drive_link)
-    - [Invalid Scenarios](https://drive.google.com/file/d/1AvTEwdgy_gR2aqRUDC4PI3q-XVVQUvcL/view?usp=drive_link)
-      
+    - [Invalid Scenarios](https://drive.google.com/file/d/1AvTEwdgy_gR2aqRUDC4PI3q-XVVQUvcL/view?usp=drive_link)    
       
 
 ### Testing with Postman
