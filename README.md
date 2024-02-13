@@ -5,7 +5,7 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test Case Writing with google sheets](#test-case-writing-google-sheets)
+  * [Test Case Writing with google sheets and bug report](#test-case-writing-google-sheets)
   * [Selenium](#automated-testing-with-selenium)
   * [Trello](#creating-test-cases-with-trello)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
